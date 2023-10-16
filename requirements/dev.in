@@ -1,2 +1,4 @@
+-r test.in
 build
 pip-compile-multi
+tox
