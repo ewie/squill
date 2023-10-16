@@ -1,0 +1,5 @@
+[project]
+name = "squill"
+version = "0.0.0"
+description = "Tool for managing database revisions"
+license.text = "BSD-3-Clause"
